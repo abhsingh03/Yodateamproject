@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="teamyoda"
+    errors="1" failures="0" hostname="" id="" package="teamyoda" skipped="0"
+    tests="1" time="0.08800" timestamp="Fri, 02 Nov 2018 21:44:53 GMT">
+  
+    <testcase name="Check Categories" classname="teamyoda" time="0.08800" assertions="0">
+    </testcase>
+  
+
+  
+    <system-err>
+        Error while running [Teamyoda / Check Categories]:
+
+  Error: recreationalveicles was not found in &#34;yodapageobjects&#34;. Available elements: businessequipment,electronics,recreationalvehicles,fashion,homegarden,outdoorgear,businessequipment1,electronics1,recreationalvehicles1,fashion1,homegarden1,outdoorgear1,bebottom,elbottom,rvbottom,fsbottom,hgbottom,ogbottom
+    at getElement (C:\Users\abhilasha\AppData\Roaming\npm\node_modules\nightwatch\lib\page-object\command-wrapper.js:13:13)
+    at Page.waitForElementPresent (C:\Users\abhilasha\AppData\Roaming\npm\node_modules\nightwatch\lib\page-object\command-wrapper.js:81:32)
+    at Object.Check Categories (C:\Users\abhilasha\DevMtn\yoda\tests\teamyoda.js:27:18)
+    at Module.call (C:\Users\abhilasha\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\Users\abhilasha\AppData\Roaming\npm\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\Users\abhilasha\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\Users\abhilasha\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\Users\abhilasha\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\Users\abhilasha\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\Users\abhilasha\AppData\Roaming\npm\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    </system-err>
+  
+
+  
+  </testsuite>
+</testsuites>

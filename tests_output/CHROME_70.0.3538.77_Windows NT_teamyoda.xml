@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="teamyoda"
+    errors="0" failures="0" hostname="" id="" package="teamyoda" skipped="0"
+    tests="3" time="210.4" timestamp="Tue, 06 Nov 2018 18:13:33 GMT">
+  
+    <testcase name="Check Categories" classname="teamyoda" time="113.7" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check Categories at the bottom" classname="teamyoda" time="91.78" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Browser Button" classname="teamyoda" time="4.984" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
