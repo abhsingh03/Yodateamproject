@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="listProductTest"
+    errors="0" failures="1" hostname="" id="" package="listProductTest" skipped="0"
+    tests="1" time="26.74" timestamp="Wed, 07 Nov 2018 16:31:02 GMT">
+  
+    <testcase name="List Product Valid" classname="listProductTest" time="26.74" assertions="4">
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;input[name=&#34;title&#34;]&gt; to be present for 5000 milliseconds.">    at module.exports (/Users/c.scottshearer/Documents/DevMountain/projects/yoodlize/testAssets/listProductValid.js:14:10)
+    at Object.List Product Valid (/Users/c.scottshearer/Documents/DevMountain/projects/yoodlize/tests/listProductTest.js:18:9)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
